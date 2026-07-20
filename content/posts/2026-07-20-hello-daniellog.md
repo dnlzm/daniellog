@@ -16,8 +16,7 @@ It is deliberately built on boring technology:
 
 ## Why static HTML?
 
-Because both humans and machines can read it. No JavaScript required to see
-the content — which also means AI crawlers can index every word.
+Because both humans and machines can read it. No JavaScript required to see the content — effective, efficient and safe.
 
 ```bash
 # publishing a post
