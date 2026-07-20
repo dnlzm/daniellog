@@ -1,5 +1,5 @@
 +++
-title = 'Hello, Daniellog'
+title = 'Hello World'
 date = 2026-07-20T12:00:00+02:00
 draft = false
 tags = ['meta']
@@ -25,4 +25,4 @@ git commit -m "post: my new post"
 git push   # live in ~1 minute
 ```
 
-More soon.
+Or two clicks in vscode.
