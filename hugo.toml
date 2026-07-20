@@ -25,7 +25,7 @@ enableRobotsTXT = false
 
 [params.homeInfoParams]
   Title = "Daniellog"
-  Content = "Technical facts and field notes — AV networking, AVB/Milan, church tech."
+  Content = "Technical facts and field notes — ProAV networking, embedded realtime, Managing Product, running live events."
 
 [[menu.main]]
   identifier = "posts"
