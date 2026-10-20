@@ -7,4 +7,6 @@ summary = 'Big-O notation Eselsbrücke'
 +++
 
 Very easy to remember if you have seen this once.
+
 ![BigO notation](../pics/BigO.png)
+
