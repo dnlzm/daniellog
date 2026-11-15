@@ -1,5 +1,5 @@
 +++
-title = 'ALternative BigO notation'
+title = 'Alternative BigO notation'
 date = 2026-08-12T12:00:00+02:00
 draft = false
 tags = ['fun']

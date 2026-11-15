@@ -6,10 +6,9 @@ tags = ['meta']
 summary = 'What this blog is, how it is built, and why it is deliberately boring technology.'
 +++
 
-Daniellog is a technical-facts blog: AV networking, AVB/Milan, church tech.
+Daniellog is a technical-facts blog: AV networking, Milan-AVB, audio tech, thoughts.
 
 It is deliberately built on boring technology:
-
 - Posts are Markdown files in a Git repository
 - [Hugo](https://gohugo.io/) turns them into static HTML
 - GitHub Actions builds and deploys to GitHub Pages on every push
