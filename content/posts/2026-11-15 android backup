@@ -1,0 +1,8 @@
+# Android backup mit adb 
+## 
+python3 pixel_backup.py                 # Backup + Vergleich
+python3 pixel_backup.py --verify-only   # nur Vergleich
+python3 pixel_backup.py --deep          # Vergleich zusätzlich per MD5
+
+DEFAULT_DEST = "~/tel-backup"
+DEFAULT_SRC = "/sdcard"
