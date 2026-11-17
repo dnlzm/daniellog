@@ -42,7 +42,7 @@ enableRobotsTXT = false
 [[menu.main]]
   identifier = "Fotos"
   name = "Fotos"
-  url = "/fotos/"
+  url = "https://dnlzm.github.io/danielpic1/"
   weight = 30
 
 [[menu.main]]
