@@ -40,10 +40,16 @@ enableRobotsTXT = false
   weight = 20
 
 [[menu.main]]
+  identifier = "Fotos"
+  name = "Fotos"
+  url = "/fotos/"
+  weight = 30
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 30
+  weight = 40
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
