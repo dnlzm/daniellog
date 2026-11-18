@@ -64,8 +64,8 @@ summary = 'A collection of useful links related to Time-Sensitive Networking (TS
 
 ## Journals
 
-- Audionetzwerke: von AVB zu Milan | Production Partner. https://www.production-partner.de/basics/audionetzwerk-avb-milan/.
-- Was ist das Audio-over-IP-Protokoll Milan? - Professional System. https://www.professional-system.de/basics/was-ist-das-audio-over-ip-protokoll-milan/.
-- Time-Sensitive Networking – Wikipedia. https://de.wikipedia.org/wiki/Time-Sensitive_Networking.
-- Time-Sensitive Networking (TSN): Was ist das und wie geht das?. https://www.embedded-software-engineering.de/time-sensitive-networking-tsn-was-ist-das-und-wie-geht-das-a-801013/.
-- TSN – der aktuelle Stand und die Herausforderungen. https://www.elektroniknet.de/automation/m2m/tsn-der-aktuelle-stand-und-die-herausforderungen.185037.html.
+- [Audionetzwerke: von AVB zu Milan](https://www.production-partner.de/basics/audionetzwerk-avb-milan/) - Production Partner
+- [Was ist das Audio-over-IP-Protokoll Milan?](https://www.professional-system.de/basics/was-ist-das-audio-over-ip-protokoll-milan/) - Professional System
+- [Time-Sensitive Networking](https://de.wikipedia.org/wiki/Time-Sensitive_Networking) - Wikipedia
+- [Time-Sensitive Networking (TSN): Was ist das und wie geht das?](https://www.embedded-software-engineering.de/time-sensitive-networking-tsn-was-ist-das-und-wie-geht-das-a-801013/) - Embedded Software Engineering
+- [TSN – der aktuelle Stand und die Herausforderungen](https://www.elektroniknet.de/automation/m2m/tsn-der-aktuelle-stand-und-die-herausforderungen.185037.html) - Elektroniknet

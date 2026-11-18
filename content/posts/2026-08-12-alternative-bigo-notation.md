@@ -3,10 +3,10 @@ title = 'Alternative BigO notation'
 date = 2026-08-12T12:00:00+02:00
 draft = false
 tags = ['fun']
-summary = 'Big-O notation Eselsbrücke'
+summary = 'Eine leicht merkbare Eselsbrücke zur Big-O-Notation'
 +++
 
-Very easy to remember if you have seen this once.
+Diese alternative Darstellung ist leicht zu merken, sobald man sie einmal gesehen hat.
 
 ![BigO notation](pics/BigO.png)
 
